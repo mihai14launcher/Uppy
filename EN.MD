@@ -21,7 +21,7 @@ Uppy is a simple process manager inspired by PM2, allowing you to start, stop, a
 
 2. Run the installation script:
 
-    setup.sh
+    bash setup.sh
 
    This script will create a virtual environment, install the necessary dependencies, and set up the `uppy` command.
 
