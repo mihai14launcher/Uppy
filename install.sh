@@ -244,3 +244,7 @@ if [ "$1" == "--danger_remove" ]; then
 else
     install_uppy
 fi
+
+sleep 4
+clear
+bash finish.sh
