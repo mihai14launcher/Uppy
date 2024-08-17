@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Setează variabilele
-PROJECT_DIR="/home/mihai/uppy"
+PROJECT_DIR="/custom/directory/uppy"
 VENV_DIR="$PROJECT_DIR/venv"
 BIN_DIR="$VENV_DIR/bin"
 SCRIPT_DIR="$PROJECT_DIR"
