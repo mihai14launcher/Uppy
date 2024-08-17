@@ -18,7 +18,7 @@ Uppy este un manager de procese simplu, inspirat de PM2, care îți permite să 
 
     ```bash
     git clone https://github.com/mihai14launcher/uppy.git
-    cd repository
+    cd uppy
     ```
 
 2. **Rulează scriptul de instalare**:
