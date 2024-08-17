@@ -24,7 +24,7 @@ Uppy este un manager de procese simplu, inspirat de PM2, care îți permite să 
 2. **Rulează scriptul de instalare**:
 
     ```bash
-    ./install.sh
+    bash setup.sh
     ```
 
    Acest script va crea un mediu virtual, va instala dependențele necesare și va configura comanda `uppy`.
