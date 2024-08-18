@@ -16,7 +16,7 @@ Uppy is a simple process manager inspired by PM2, allowing you to start, stop, a
 
 1. Clone the repository:
 
-    git clone https://github.com/username/repository.git
+    git clone https://github.com/mihai14launcher/uppy.git
     cd uppy
 
 2. Run the installation script:
