@@ -1,11 +1,14 @@
 #!/bin/bash
 
 # Setează variabilele
+# Here on PROJECTD_DIR=" " | set a custom directory but reccomended its PROJECTD_DIR="/vox/uppy" or you can risk and put a custom directory
 PROJECT_DIR="/custom/directory/uppy"
 VENV_DIR="$PROJECT_DIR/venv"
 BIN_DIR="$VENV_DIR/bin"
 SCRIPT_DIR="$PROJECT_DIR"
 
+mkdir /vox
+mkdir /vox/uppy
 # Funcția pentru instalare
 install_uppy() {
     # Creează și activează un mediu virtual
